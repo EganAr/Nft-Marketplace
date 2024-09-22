@@ -46,5 +46,5 @@ This project implements a smart contract for an NFT Marketplace with Account Abs
 
 ## Testing
 
-Contracts have been test by [me] with 80%+ coverage.
+Contracts have been test by me with 80%+ coverage.</br>
 Use caution when deploying to testnet sepolia.
